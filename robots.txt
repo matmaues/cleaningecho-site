@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cleaningecho.com/sitemap.xml
